@@ -2,86 +2,152 @@
   "masaccio-trinity-coffers": {
     "source": "masaccio-trinity",
     "box": [
-      185,
-      41,
-      657,
-      1140
+      154,
+      40,
+      720,
+      900
     ],
-    "note": "藻井方格收缩序列",
+    "note": "藻井方格收缩序列与灭点方向",
     "annotations": [
       {
         "type": "box",
         "rect": [
-          98,
-          136,
-          164,
-          228
+          250,
+          50,
+          220,
+          150
         ],
         "label": "近景格"
       },
       {
         "type": "arrow",
         "from": [
-          98,
-          399
+          160,
+          100
         ],
         "to": [
-          361,
-          513
+          340,
+          480
         ],
-        "label": "收缩方向"
+        "label": "藻井收缩"
+      },
+      {
+        "type": "arrow",
+        "from": [
+          560,
+          100
+        ],
+        "to": [
+          380,
+          480
+        ],
+        "label": "正交线"
       },
       {
         "type": "line",
         "points": [
           [
-            0,
-            798
+            40,
+            780
           ],
           [
-            657,
-            798
+            680,
+            780
           ]
         ],
-        "label": "视平线附近"
+        "label": "视平线（近灭点）"
       }
     ]
   },
   "raphael-orthogonals": {
     "source": "raphael-school-of-athens",
     "box": [
-      924,
-      844,
-      1848,
-      1327
+      555,
+      950,
+      2590,
+      1350
     ],
-    "note": "地砖与拱肋正交线",
+    "note": "灭点位于柏拉图与亚里士多德之间；正交线示铺地与建筑进深方向",
     "annotations": [
-      {
-        "type": "arrow",
-        "from": [
-          277,
-          464
-        ],
-        "to": [
-          1016,
-          597
-        ],
-        "label": "地砖缝"
-      },
       {
         "type": "line",
         "points": [
           [
             0,
-            928
+            164
           ],
           [
-            1848,
-            928
+            2590,
+            164
           ]
         ],
         "label": "视平线"
+      },
+      {
+        "type": "box",
+        "rect": [
+          1240,
+          130,
+          70,
+          70
+        ],
+        "label": "灭点"
+      },
+      {
+        "type": "line",
+        "points": [
+          [
+            425,
+            1330
+          ],
+          [
+            1276,
+            164
+          ]
+        ],
+        "label": "地砖/正交线"
+      },
+      {
+        "type": "line",
+        "points": [
+          [
+            845,
+            1310
+          ],
+          [
+            1276,
+            164
+          ]
+        ],
+        "label": "正交线"
+      },
+      {
+        "type": "line",
+        "points": [
+          [
+            1745,
+            1310
+          ],
+          [
+            1276,
+            164
+          ]
+        ],
+        "label": "正交线"
+      },
+      {
+        "type": "line",
+        "points": [
+          [
+            2195,
+            1330
+          ],
+          [
+            1276,
+            164
+          ]
+        ],
+        "label": "正交线"
       }
     ]
   },
@@ -89,193 +155,227 @@
     "source": "van-eyck-arnolfini",
     "box": [
       1459,
-      1838,
-      1075,
-      1575
+      1420,
+      960,
+      1100
     ],
-    "note": "凸面镜第二空间",
+    "note": "凸面镜第二空间与镜框十景",
     "annotations": [
       {
         "type": "box",
         "rect": [
-          161,
-          189,
-          268,
-          315
+          280,
+          50,
+          400,
+          400
         ],
-        "label": "镜面空间"
+        "label": "凸面镜"
+      },
+      {
+        "type": "arrow",
+        "from": [
+          400,
+          180
+        ],
+        "to": [
+          480,
+          260
+        ],
+        "label": "镜内第二空间"
       }
     ]
   },
   "holbein-skull": {
     "source": "holbein-ambassadors",
     "box": [
-      576,
-      2648,
-      2688,
-      946
+      192,
+      2700,
+      3456,
+      1000
     ],
-    "note": "前景变形骷髅",
+    "note": "前景变形骷髅（anamorphosis）",
     "annotations": [
+      {
+        "type": "box",
+        "rect": [
+          600,
+          250,
+          2200,
+          600
+        ],
+        "label": "变形骷髅"
+      },
       {
         "type": "arrow",
         "from": [
-          403,
-          331
+          400,
+          400
         ],
         "to": [
-          1478,
-          425
+          1800,
+          550
         ],
-        "label": "anamorphosis"
+        "label": "侧向观看可还原"
       }
     ]
   },
   "leonardo-sfumato-jaw": {
     "source": "leonardo-rocks-london",
     "box": [
-      480,
-      420,
-      640,
-      480
+      537,
+      888,
+      864,
+      1184
     ],
-    "note": "下颌与手背 sfumato",
+    "note": "下颌与手背 sfumato 过渡",
     "annotations": [
       {
         "type": "box",
+        "label": "下颌过渡带",
         "rect": [
-          96,
-          57,
-          160,
-          96
-        ],
-        "label": "过渡带"
+          302,
+          94,
+          302,
+          331
+        ]
       },
       {
         "type": "arrow",
+        "label": "几乎无笔痕",
         "from": [
-          96,
-          168
+          129,
+          651
         ],
         "to": [
-          352,
-          216
-        ],
-        "label": "几乎无笔痕"
+          388,
+          532
+        ]
       }
     ]
   },
   "caravaggio-hand-edge": {
     "source": "caravaggio-emmaus",
     "box": [
-      720,
-      480,
-      640,
-      480
+      1843,
+      955,
+      1536,
+      1228
     ],
     "note": "手部亮直落黑",
     "annotations": [
       {
         "type": "arrow",
+        "label": "缺中间调",
         "from": [
-          96,
-          168
+          307,
+          429
         ],
         "to": [
-          352,
-          216
-        ],
-        "label": "缺中间调"
+          844,
+          614
+        ]
       }
     ]
   },
   "rembrandt-armor": {
     "source": "rembrandt-night-watch",
     "box": [
-      1344,
-      781,
-      1344,
-      1405
+      1459,
+      687,
+      1152,
+      1499
     ],
     "note": "铠甲高光堆塑",
     "annotations": [
       {
         "type": "box",
+        "label": "厚涂高光",
         "rect": [
-          201,
-          168,
-          336,
-          281
-        ],
-        "label": "厚涂高光"
+          288,
+          299,
+          403,
+          449
+        ]
       }
     ]
   },
   "monet-shadow-color": {
     "source": "monet-sunrise",
     "box": [
-      240,
-      420,
-      880,
-      540
+      384,
+      1042,
+      2112,
+      1340
     ],
-    "note": "影中无黑",
+    "note": "影中无黑：冷色构成阴影",
     "annotations": [
       {
         "type": "box",
+        "label": "冷色影",
         "rect": [
-          132,
-          64,
-          220,
-          108
-        ],
-        "label": "冷色影"
+          633,
+          335,
+          739,
+          468
+        ]
       }
     ]
   },
   "botticelli-hatching": {
     "source": "botticelli-venus",
     "box": [
-      1536,
-      844,
-      1344,
-      1085
+      1612,
+      723,
+      1152,
+      1206
     ],
-    "note": "蛋彩排线",
+    "note": "蛋彩细排线",
     "annotations": [
       {
         "type": "arrow",
+        "label": "排线方向",
         "from": [
-          201,
-          379
+          230,
+          301
         ],
         "to": [
-          739,
-          488
-        ],
-        "label": "排线方向"
+          633,
+          663
+        ]
       }
     ]
   },
   "meninas-mirror": {
     "source": "velazquez-meninas",
     "box": [
-      1728,
-      884,
-      960,
-      1326
+      1305,
+      2120,
+      620,
+      900
     ],
-    "note": "镜中王室",
+    "note": "后墙镜中王室像",
     "annotations": [
       {
         "type": "box",
         "rect": [
-          144,
-          159,
-          240,
-          265
+          80,
+          120,
+          420,
+          520
         ],
         "label": "镜面"
+      },
+      {
+        "type": "arrow",
+        "from": [
+          300,
+          80
+        ],
+        "to": [
+          300,
+          280
+        ],
+        "label": "镜中空间"
       }
     ]
   }

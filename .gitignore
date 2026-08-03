@@ -18,3 +18,7 @@ Thumbs.db
 # Temp
 *.tmp
 *.log
+
+images/_preview/
+*.tmp
+

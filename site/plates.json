@@ -276,7 +276,7 @@
     "artist": "",
     "year": "",
     "museum_url": "",
-    "coords": "185,41,657,1140",
+    "coords": "154,40,720,900",
     "parent": "masaccio-trinity"
   },
   {
@@ -286,7 +286,7 @@
     "artist": "",
     "year": "",
     "museum_url": "",
-    "coords": "924,844,1848,1327",
+    "coords": "555,950,2590,1350",
     "parent": "raphael-school-of-athens"
   },
   {
@@ -296,7 +296,7 @@
     "artist": "",
     "year": "",
     "museum_url": "",
-    "coords": "1459,1838,1075,1575",
+    "coords": "1459,1420,960,1100",
     "parent": "van-eyck-arnolfini"
   },
   {
@@ -306,7 +306,7 @@
     "artist": "",
     "year": "",
     "museum_url": "",
-    "coords": "576,2648,2688,946",
+    "coords": "192,2700,3456,1000",
     "parent": "holbein-ambassadors"
   },
   {
@@ -316,7 +316,7 @@
     "artist": "",
     "year": "",
     "museum_url": "",
-    "coords": "480,420,640,480",
+    "coords": "537,888,864,1184",
     "parent": "leonardo-rocks-london"
   },
   {
@@ -326,7 +326,7 @@
     "artist": "",
     "year": "",
     "museum_url": "",
-    "coords": "720,480,640,480",
+    "coords": "1843,955,1536,1228",
     "parent": "caravaggio-emmaus"
   },
   {
@@ -336,7 +336,7 @@
     "artist": "",
     "year": "",
     "museum_url": "",
-    "coords": "1344,781,1344,1405",
+    "coords": "1459,687,1152,1499",
     "parent": "rembrandt-night-watch"
   },
   {
@@ -346,7 +346,7 @@
     "artist": "",
     "year": "",
     "museum_url": "",
-    "coords": "240,420,880,540",
+    "coords": "384,1042,2112,1340",
     "parent": "monet-sunrise"
   },
   {
@@ -356,7 +356,7 @@
     "artist": "",
     "year": "",
     "museum_url": "",
-    "coords": "1536,844,1344,1085",
+    "coords": "1612,723,1152,1206",
     "parent": "botticelli-venus"
   },
   {
@@ -366,7 +366,7 @@
     "artist": "",
     "year": "",
     "museum_url": "",
-    "coords": "1728,884,960,1326",
+    "coords": "1305,2120,620,900",
     "parent": "velazquez-meninas"
   }
 ]

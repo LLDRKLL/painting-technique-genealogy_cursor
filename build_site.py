@@ -155,20 +155,42 @@ def layers_html(slug: str) -> str:
 """.strip()
 
 
+def load_grids() -> dict:
+    path = ROOT / "images" / "grids.json"
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
 def grid_html(slug: str) -> str:
-    # Generic vanishing-point overlay; works as educational schematic.
-    svg = """
-<svg viewBox="0 0 1000 700" preserveAspectRatio="none" aria-hidden="true">
-  <line x1="0" y1="420" x2="1000" y2="420" stroke="#b0522c" stroke-width="2" stroke-dasharray="8 6" />
-  <circle cx="500" cy="420" r="7" fill="#b0522c" />
-  <line x1="80" y1="700" x2="500" y2="420" stroke="#b0522c" stroke-width="1.5" opacity="0.85" />
-  <line x1="250" y1="700" x2="500" y2="420" stroke="#b0522c" stroke-width="1.5" opacity="0.7" />
-  <line x1="750" y1="700" x2="500" y2="420" stroke="#b0522c" stroke-width="1.5" opacity="0.7" />
-  <line x1="920" y1="700" x2="500" y2="420" stroke="#b0522c" stroke-width="1.5" opacity="0.85" />
-  <line x1="120" y1="0" x2="500" y2="420" stroke="#3e5f80" stroke-width="1.2" opacity="0.55" />
-  <line x1="880" y1="0" x2="500" y2="420" stroke="#3e5f80" stroke-width="1.2" opacity="0.55" />
-  <text x="512" y="408" fill="#b0522c" font-size="22" font-family="sans-serif">VP</text>
-  <text x="20" y="410" fill="#b0522c" font-size="18" font-family="sans-serif">视平线</text>
+    """Perspective overlay using per-painting VP from images/grids.json."""
+    grids = load_grids()
+    conf = grids.get(slug, {
+        "vp": [0.5, 0.6],
+        "horizon_y": 0.6,
+        "orthogonals_from": [[0.1, 1.0], [0.3, 1.0], [0.7, 1.0], [0.9, 1.0]],
+    })
+    vpx, vpy = conf["vp"]
+    hy = conf.get("horizon_y", vpy)
+    # SVG user space 0-1000
+    sx, sy = vpx * 1000, vpy * 1000
+    hy_s = hy * 1000
+    lines = []
+    for i, (fx, fy) in enumerate(conf.get("orthogonals_from", [])):
+        opacity = 0.85 if i < 4 else 0.55
+        color = "#b0522c" if fy >= 0.5 else "#3e5f80"
+        lines.append(
+            f'<line x1="{fx*1000:.1f}" y1="{fy*1000:.1f}" x2="{sx:.1f}" y2="{sy:.1f}" '
+            f'stroke="{color}" stroke-width="1.6" opacity="{opacity}" />'
+        )
+    lines_svg = "\n  ".join(lines)
+    svg = f"""
+<svg viewBox="0 0 1000 1000" preserveAspectRatio="none" aria-hidden="true">
+  <line x1="0" y1="{hy_s:.1f}" x2="1000" y2="{hy_s:.1f}" stroke="#b0522c" stroke-width="2.2" stroke-dasharray="10 7" />
+  {lines_svg}
+  <circle cx="{sx:.1f}" cy="{sy:.1f}" r="8" fill="#b0522c" />
+  <text x="{sx+12:.1f}" y="{sy-10:.1f}" fill="#b0522c" font-size="28" font-family="sans-serif">VP</text>
+  <text x="16" y="{hy_s-12:.1f}" fill="#b0522c" font-size="24" font-family="sans-serif">视平线</text>
 </svg>
 """.strip()
     return f"""
@@ -180,7 +202,7 @@ def grid_html(slug: str) -> str:
     <img src="img/{slug}-2000.jpg" alt="透视网格叠加底图" loading="lazy" />
     {svg}
   </div>
-  <p class="widget-caption">透视网格叠加：灭点、视平线与正交线（示意叠加，可开关）。</p>
+  <p class="widget-caption">透视网格叠加：灭点、视平线与正交线按该作几何标定（可开关）。</p>
 </div>
 """.strip()
 

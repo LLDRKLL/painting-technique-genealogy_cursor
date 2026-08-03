@@ -58,7 +58,14 @@ def resize_max(im: Image.Image, max_side: int) -> Image.Image:
 def save_jpeg(im: Image.Image, path: Path, quality: int = 88) -> None:
     rgb = im.convert("RGB")
     path.parent.mkdir(parents=True, exist_ok=True)
-    rgb.save(path, "JPEG", quality=quality, optimize=True)
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    if path.exists():
+        try:
+            path.unlink()
+        except OSError:
+            pass
+    rgb.save(tmp, "JPEG", quality=quality, optimize=True)
+    tmp.replace(path)
 
 
 def make_temp_map(im: Image.Image) -> Image.Image:
