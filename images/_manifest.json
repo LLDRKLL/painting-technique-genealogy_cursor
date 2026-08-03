@@ -1,0 +1,165 @@
+{
+  "giotto-lamentation": {
+    "filename": "giotto-lamentation.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Giotto_-_Scrovegni_-_-36-_-_Lamentation_(The_Mourning_of_Christ)_adj.jpg?width=2000",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Giotto_-_Scrovegni_-_-36-_-_Lamentation_(The_Mourning_of_Christ)_adj.jpg",
+    "note": "Arena Chapel Lamentation"
+  },
+  "masaccio-trinity": {
+    "filename": "masaccio-trinity.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Masaccio,_trinit%C3%A0.jpg?width=2000",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Masaccio,_trinit%C3%A0.jpg",
+    "note": "Masaccio Trinity"
+  },
+  "piero-flagellation": {
+    "filename": "piero-flagellation.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Piero,_flagellazione.jpg?width=2000",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Piero,_flagellazione.jpg",
+    "note": "Piero Flagellation"
+  },
+  "raphael-school-of-athens": {
+    "filename": "raphael-school-of-athens.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael_School_of_Athens.jpg?width=2500",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Raphael_School_of_Athens.jpg",
+    "note": "Raphael School of Athens"
+  },
+  "van-eyck-arnolfini": {
+    "filename": "van-eyck-arnolfini.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Van_Eyck_-_Arnolfini_Portrait.jpg?width=2000",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Van_Eyck_-_Arnolfini_Portrait.jpg",
+    "note": "Arnolfini Portrait"
+  },
+  "holbein-ambassadors": {
+    "filename": "holbein-ambassadors.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg?width=2500",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+    "note": "Holbein Ambassadors"
+  },
+  "pozzo-sant-ignazio": {
+    "filename": "pozzo-sant-ignazio.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andrea_Pozzo_-_Apoteosi_di_sant%27Ignazio_-_Google_Art_Project.jpg?width=2000",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Andrea_Pozzo_-_Apoteosi_di_sant%27Ignazio_-_Google_Art_Project.jpg",
+    "note": "Pozzo Sant'Ignazio"
+  },
+  "velazquez-meninas": {
+    "filename": "velazquez-meninas.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Las_Meninas,_by_Diego_Vel%C3%A1zquez,_from_Prado_in_Google_Earth.jpg?width=2500",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Las_Meninas,_by_Diego_Vel%C3%A1zquez,_from_Prado_in_Google_Earth.jpg",
+    "note": "Las Meninas"
+  },
+  "vermeer-milkmaid": {
+    "filename": "vermeer-milkmaid.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg?width=2000",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+    "note": "Vermeer Milkmaid"
+  },
+  "degas-absinthe": {
+    "filename": "degas-absinthe.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar_Germain_Hilaire_Degas_012.jpg?width=2000",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Edgar_Germain_Hilaire_Degas_012.jpg",
+    "note": "Degas L'Absinthe"
+  },
+  "leonardo-rocks-london": {
+    "filename": "leonardo-rocks-london.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo_da_Vinci_-_Virgin_of_the_Rocks_(National_Gallery_London).jpg?width=2000",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Virgin_of_the_Rocks_(National_Gallery_London).jpg",
+    "note": "Virgin of the Rocks NG"
+  },
+  "titian-bacchus-ariadne": {
+    "filename": "titian-bacchus-ariadne.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Titian_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg?width=2500",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Titian_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg",
+    "note": "Titian Bacchus and Ariadne"
+  },
+  "caravaggio-emmaus": {
+    "filename": "caravaggio-emmaus.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caravaggio_-_Cena_in_Emmaus.jpg?width=2000",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_Cena_in_Emmaus.jpg",
+    "note": "Caravaggio Emmaus NG"
+  },
+  "rembrandt-night-watch": {
+    "filename": "rembrandt-night-watch.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg?width=2500",
+    "source_page": "https://commons.wikimedia.org/wiki/File:The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg",
+    "note": "Night Watch"
+  },
+  "reynolds-nelsons": {
+    "filename": "reynolds-health-of-the-nation.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joshua_Reynolds_-_The_Age_of_Innocence_-_Google_Art_Project.jpg?width=2000",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Joshua_Reynolds_-_The_Age_of_Innocence_-_Google_Art_Project.jpg",
+    "note": "Reynolds Age of Innocence (bitumen discussion proxy)"
+  },
+  "monet-sunrise": {
+    "filename": "monet-sunrise.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude_Monet,_Impression,_soleil_levant.jpg?width=2000",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_Impression,_soleil_levant.jpg",
+    "note": "Impression Sunrise"
+  },
+  "cezanne-apples": {
+    "filename": "cezanne-apples.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paul_C%C3%A9zanne_-_Still_Life_with_Apples_-_Google_Art_Project.jpg?width=2000",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne_-_Still_Life_with_Apples_-_Google_Art_Project.jpg",
+    "note": "Cezanne apples"
+  },
+  "botticelli-venus": {
+    "filename": "botticelli-venus.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg?width=2500",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+    "note": "Birth of Venus"
+  },
+  "manet-olympia": {
+    "filename": "manet-olympia.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edouard_Manet_-_Olympia_-_Google_Art_Project.jpg?width=2500",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Olympia_-_Google_Art_Project.jpg",
+    "note": "Manet Olympia"
+  },
+  "turner-slave-ship": {
+    "filename": "turner-slave-ship.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Slave-ship.jpg?width=2000",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Slave-ship.jpg",
+    "note": "Turner Slave Ship"
+  },
+  "delacroix-liberty": {
+    "filename": "delacroix-liberty.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg?width=2500",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg",
+    "note": "Delacroix Liberty"
+  },
+  "van-gogh-bedroom": {
+    "filename": "van-gogh-bedroom.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg?width=2000",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg",
+    "note": "Van Gogh Bedroom (Amsterdam version; Chicago XRF discussed in text)"
+  },
+  "seurat-grande-jatte": {
+    "filename": "seurat-grande-jatte.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Georges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_Google_Art_Project.jpg?width=2500",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Georges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_Google_Art_Project.jpg",
+    "note": "Seurat Grande Jatte"
+  },
+  "constable-hay-wain": {
+    "filename": "constable-hay-wain.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Constable_The_Hay_Wain.jpg?width=2000",
+    "source_page": "https://commons.wikimedia.org/wiki/File:John_Constable_The_Hay_Wain.jpg",
+    "note": "Constable Hay Wain"
+  },
+  "titian-early-hand": {
+    "filename": "titian-early-hand.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Titian_-_Man_with_a_Glove_-_Google_Art_Project.jpg?width=1600",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Titian_-_Man_with_a_Glove_-_Google_Art_Project.jpg",
+    "note": "Titian early hand proxy"
+  },
+  "titian-late-hand": {
+    "filename": "titian-late-hand.jpg",
+    "download_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Titian_-_Piet%C3%A0_-_WGA22755.jpg?width=1600",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Titian_-_Piet%C3%A0_-_WGA22755.jpg",
+    "note": "Titian late brushwork proxy"
+  },
+  "tempera-panel-schematic": {
+    "filename": "tempera-panel-schematic.jpg",
+    "download_url": "",
+    "source_page": "generated",
+    "note": "Generated Cennini tempera schematic",
+    "generated": true
+  }
+}

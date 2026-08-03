@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{TITLE}}</title>
+  <meta name="description" content="{{DESCRIPTION}}" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Noto+Sans+SC:wght@400;500;600&family=Noto+Serif+SC:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到正文</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html">通往塞尚之前</a>
+      <nav class="header-nav" aria-label="站点">
+        <a href="index.html">正文</a>
+        <a href="glossary.html">术语表</a>
+        <a href="plates.html">图版索引</a>
+        <a href="reading.html">阅读路线图</a>
+      </nav>
+      <div class="header-actions">
+        <button type="button" id="theme-toggle" class="btn-ghost" aria-label="切换深浅色">深色</button>
+      </div>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="toc" aria-label="目录">
+      <p class="toc-label">目录</p>
+      {{TOC}}
+    </aside>
+    <main id="main" class="main">
+      {{CONTENT}}
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <p>通往塞尚之前 · 西方绘画技法与公认原则的谱系 · 私有研究站点</p>
+  </footer>
+
+  <div id="loupe-modal" class="loupe-modal" hidden>
+    <div class="loupe-backdrop" data-close></div>
+    <div class="loupe-panel" role="dialog" aria-modal="true" aria-label="细节放大">
+      <button type="button" class="loupe-close" data-close aria-label="关闭">×</button>
+      <div class="loupe-stage"><div class="loupe-zoom"></div></div>
+      <p class="loupe-hint">点击全图任意位置查看 2× 局部</p>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

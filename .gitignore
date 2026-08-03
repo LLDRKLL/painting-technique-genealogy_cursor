@@ -1,0 +1,20 @@
+# Large originals — re-fetch with fetch_images.py
+images/originals/
+!images/originals/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temp
+*.tmp
+*.log

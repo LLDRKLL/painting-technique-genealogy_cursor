@@ -1,0 +1,282 @@
+{
+  "masaccio-trinity-coffers": {
+    "source": "masaccio-trinity",
+    "box": [
+      185,
+      41,
+      657,
+      1140
+    ],
+    "note": "藻井方格收缩序列",
+    "annotations": [
+      {
+        "type": "box",
+        "rect": [
+          98,
+          136,
+          164,
+          228
+        ],
+        "label": "近景格"
+      },
+      {
+        "type": "arrow",
+        "from": [
+          98,
+          399
+        ],
+        "to": [
+          361,
+          513
+        ],
+        "label": "收缩方向"
+      },
+      {
+        "type": "line",
+        "points": [
+          [
+            0,
+            798
+          ],
+          [
+            657,
+            798
+          ]
+        ],
+        "label": "视平线附近"
+      }
+    ]
+  },
+  "raphael-orthogonals": {
+    "source": "raphael-school-of-athens",
+    "box": [
+      924,
+      844,
+      1848,
+      1327
+    ],
+    "note": "地砖与拱肋正交线",
+    "annotations": [
+      {
+        "type": "arrow",
+        "from": [
+          277,
+          464
+        ],
+        "to": [
+          1016,
+          597
+        ],
+        "label": "地砖缝"
+      },
+      {
+        "type": "line",
+        "points": [
+          [
+            0,
+            928
+          ],
+          [
+            1848,
+            928
+          ]
+        ],
+        "label": "视平线"
+      }
+    ]
+  },
+  "arnolfini-mirror": {
+    "source": "van-eyck-arnolfini",
+    "box": [
+      1459,
+      1838,
+      1075,
+      1575
+    ],
+    "note": "凸面镜第二空间",
+    "annotations": [
+      {
+        "type": "box",
+        "rect": [
+          161,
+          189,
+          268,
+          315
+        ],
+        "label": "镜面空间"
+      }
+    ]
+  },
+  "holbein-skull": {
+    "source": "holbein-ambassadors",
+    "box": [
+      576,
+      2648,
+      2688,
+      946
+    ],
+    "note": "前景变形骷髅",
+    "annotations": [
+      {
+        "type": "arrow",
+        "from": [
+          403,
+          331
+        ],
+        "to": [
+          1478,
+          425
+        ],
+        "label": "anamorphosis"
+      }
+    ]
+  },
+  "leonardo-sfumato-jaw": {
+    "source": "leonardo-rocks-london",
+    "box": [
+      480,
+      420,
+      640,
+      480
+    ],
+    "note": "下颌与手背 sfumato",
+    "annotations": [
+      {
+        "type": "box",
+        "rect": [
+          96,
+          57,
+          160,
+          96
+        ],
+        "label": "过渡带"
+      },
+      {
+        "type": "arrow",
+        "from": [
+          96,
+          168
+        ],
+        "to": [
+          352,
+          216
+        ],
+        "label": "几乎无笔痕"
+      }
+    ]
+  },
+  "caravaggio-hand-edge": {
+    "source": "caravaggio-emmaus",
+    "box": [
+      720,
+      480,
+      640,
+      480
+    ],
+    "note": "手部亮直落黑",
+    "annotations": [
+      {
+        "type": "arrow",
+        "from": [
+          96,
+          168
+        ],
+        "to": [
+          352,
+          216
+        ],
+        "label": "缺中间调"
+      }
+    ]
+  },
+  "rembrandt-armor": {
+    "source": "rembrandt-night-watch",
+    "box": [
+      1344,
+      781,
+      1344,
+      1405
+    ],
+    "note": "铠甲高光堆塑",
+    "annotations": [
+      {
+        "type": "box",
+        "rect": [
+          201,
+          168,
+          336,
+          281
+        ],
+        "label": "厚涂高光"
+      }
+    ]
+  },
+  "monet-shadow-color": {
+    "source": "monet-sunrise",
+    "box": [
+      240,
+      420,
+      880,
+      540
+    ],
+    "note": "影中无黑",
+    "annotations": [
+      {
+        "type": "box",
+        "rect": [
+          132,
+          64,
+          220,
+          108
+        ],
+        "label": "冷色影"
+      }
+    ]
+  },
+  "botticelli-hatching": {
+    "source": "botticelli-venus",
+    "box": [
+      1536,
+      844,
+      1344,
+      1085
+    ],
+    "note": "蛋彩排线",
+    "annotations": [
+      {
+        "type": "arrow",
+        "from": [
+          201,
+          379
+        ],
+        "to": [
+          739,
+          488
+        ],
+        "label": "排线方向"
+      }
+    ]
+  },
+  "meninas-mirror": {
+    "source": "velazquez-meninas",
+    "box": [
+      1728,
+      884,
+      960,
+      1326
+    ],
+    "note": "镜中王室",
+    "annotations": [
+      {
+        "type": "box",
+        "rect": [
+          144,
+          159,
+          240,
+          265
+        ],
+        "label": "镜面"
+      }
+    ]
+  }
+}
