@@ -1,0 +1,372 @@
+[
+  {
+    "id": "giotto-lamentation",
+    "type": "全图",
+    "title": "乔托《哀悼基督》",
+    "artist": "Giotto",
+    "year": "c.1305",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Giotto_-_Scrovegni_-_-36-_-_Lamentation_(The_Mourning_of_Christ)_adj.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "masaccio-trinity",
+    "type": "全图",
+    "title": "马萨乔《三位一体》",
+    "artist": "Masaccio",
+    "year": "1427",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Masaccio,_trinit%C3%A0.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "piero-flagellation",
+    "type": "全图",
+    "title": "皮耶罗《鞭刑》",
+    "artist": "Piero della Francesca",
+    "year": "c.1455",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Piero,_flagellazione.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "raphael-school-of-athens",
+    "type": "全图",
+    "title": "拉斐尔《雅典学院》",
+    "artist": "Raphael",
+    "year": "1509–1511",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Raphael_School_of_Athens.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "van-eyck-arnolfini",
+    "type": "全图",
+    "title": "扬·凡·艾克《阿尔诺芬尼夫妇》",
+    "artist": "Jan van Eyck",
+    "year": "1434",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Van_Eyck_-_Arnolfini_Portrait.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "holbein-ambassadors",
+    "type": "全图",
+    "title": "霍尔拜因《大使们》",
+    "artist": "Hans Holbein the Younger",
+    "year": "1533",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "pozzo-sant-ignazio",
+    "type": "全图",
+    "title": "波佐《圣依纳爵的荣耀》",
+    "artist": "Andrea Pozzo",
+    "year": "1691–1694",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Andrea_Pozzo_-_Apoteosi_di_sant%27Ignazio_-_Google_Art_Project.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "velazquez-meninas",
+    "type": "全图",
+    "title": "委拉斯开兹《宫娥》",
+    "artist": "Diego Velázquez",
+    "year": "1656",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Las_Meninas,_by_Diego_Vel%C3%A1zquez,_from_Prado_in_Google_Earth.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "vermeer-milkmaid",
+    "type": "全图",
+    "title": "维米尔《倒牛奶的女仆》",
+    "artist": "Johannes Vermeer",
+    "year": "c.1660",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "degas-absinthe",
+    "type": "全图",
+    "title": "德加《苦艾酒》",
+    "artist": "Edgar Degas",
+    "year": "1875–1876",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Edgar_Germain_Hilaire_Degas_012.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "leonardo-rocks-london",
+    "type": "全图",
+    "title": "达·芬奇《岩间圣母》（伦敦）",
+    "artist": "Leonardo da Vinci",
+    "year": "c.1491–1508",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Virgin_of_the_Rocks_(National_Gallery_London).jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "titian-bacchus-ariadne",
+    "type": "全图",
+    "title": "提香《巴克斯与阿里阿德涅》",
+    "artist": "Titian",
+    "year": "1520–1523",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Titian_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "caravaggio-emmaus",
+    "type": "全图",
+    "title": "卡拉瓦乔《以马忤斯的晚餐》",
+    "artist": "Caravaggio",
+    "year": "1601",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_Cena_in_Emmaus.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "rembrandt-night-watch",
+    "type": "全图",
+    "title": "伦勃朗《夜巡》",
+    "artist": "Rembrandt",
+    "year": "1642",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "reynolds-nelsons",
+    "type": "全图",
+    "title": "雷诺兹《纯真年代》",
+    "artist": "Joshua Reynolds",
+    "year": "c.1788",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Joshua_Reynolds_-_The_Age_of_Innocence_-_Google_Art_Project.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "monet-sunrise",
+    "type": "全图",
+    "title": "莫奈《印象·日出》",
+    "artist": "Claude Monet",
+    "year": "1872",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet,_Impression,_soleil_levant.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "cezanne-apples",
+    "type": "全图",
+    "title": "塞尚《苹果静物》",
+    "artist": "Paul Cézanne",
+    "year": "c.1893–1894",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne_-_Still_Life_with_Apples_-_Google_Art_Project.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "botticelli-venus",
+    "type": "全图",
+    "title": "波提切利《维纳斯的诞生》",
+    "artist": "Sandro Botticelli",
+    "year": "c.1485",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "manet-olympia",
+    "type": "全图",
+    "title": "马奈《奥林匹亚》",
+    "artist": "Édouard Manet",
+    "year": "1863",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Olympia_-_Google_Art_Project.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "turner-slave-ship",
+    "type": "全图",
+    "title": "透纳《奴隶船》",
+    "artist": "J. M. W. Turner",
+    "year": "1840",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Slave-ship.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "delacroix-liberty",
+    "type": "全图",
+    "title": "德拉克洛瓦《自由引导人民》",
+    "artist": "Eugène Delacroix",
+    "year": "1830",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "van-gogh-bedroom",
+    "type": "全图",
+    "title": "梵高《卧室》",
+    "artist": "Vincent van Gogh",
+    "year": "1888",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "seurat-grande-jatte",
+    "type": "全图",
+    "title": "修拉《大碗岛的星期日下午》",
+    "artist": "Georges Seurat",
+    "year": "1884–1886",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Georges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_Google_Art_Project.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "constable-hay-wain",
+    "type": "全图",
+    "title": "康斯特勃《干草车》",
+    "artist": "John Constable",
+    "year": "1821",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:John_Constable_The_Hay_Wain.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "titian-early-hand",
+    "type": "全图",
+    "title": "提香《持手套的男子》（早期笔触对照）",
+    "artist": "Titian",
+    "year": "c.1520",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Titian_-_Man_with_a_Glove_-_Google_Art_Project.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "titian-late-hand",
+    "type": "全图",
+    "title": "提香《哀悼基督》（晚期笔触对照）",
+    "artist": "Titian",
+    "year": "1575–1576",
+    "museum_url": "https://commons.wikimedia.org/wiki/File:Titian_-_Piet%C3%A0_-_WGA22755.jpg",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "tempera-panel-schematic",
+    "type": "示意图",
+    "title": "十四世纪蛋彩板（Cennini 系统示意图）",
+    "artist": "schematic",
+    "year": "c.1390 system",
+    "museum_url": "generated",
+    "coords": "",
+    "parent": ""
+  },
+  {
+    "id": "masaccio-trinity-coffers",
+    "type": "细节裁切",
+    "title": "马萨乔《三位一体》藻井收缩",
+    "artist": "",
+    "year": "",
+    "museum_url": "",
+    "coords": "154,40,720,900",
+    "parent": "masaccio-trinity"
+  },
+  {
+    "id": "raphael-orthogonals",
+    "type": "细节裁切",
+    "title": "拉斐尔《雅典学院》正交线",
+    "artist": "",
+    "year": "",
+    "museum_url": "",
+    "coords": "555,950,2590,1350",
+    "parent": "raphael-school-of-athens"
+  },
+  {
+    "id": "arnolfini-mirror",
+    "type": "细节裁切",
+    "title": "阿尔诺芬尼凸面镜",
+    "artist": "",
+    "year": "",
+    "museum_url": "",
+    "coords": "1459,1420,960,1100",
+    "parent": "van-eyck-arnolfini"
+  },
+  {
+    "id": "holbein-skull",
+    "type": "细节裁切",
+    "title": "大使们变形骷髅",
+    "artist": "",
+    "year": "",
+    "museum_url": "",
+    "coords": "192,2700,3456,1000",
+    "parent": "holbein-ambassadors"
+  },
+  {
+    "id": "leonardo-sfumato-jaw",
+    "type": "细节裁切",
+    "title": "岩间圣母 sfumato 过渡",
+    "artist": "",
+    "year": "",
+    "museum_url": "",
+    "coords": "537,888,864,1184",
+    "parent": "leonardo-rocks-london"
+  },
+  {
+    "id": "caravaggio-hand-edge",
+    "type": "细节裁切",
+    "title": "以马忤斯手部边缘",
+    "artist": "",
+    "year": "",
+    "museum_url": "",
+    "coords": "1843,955,1536,1228",
+    "parent": "caravaggio-emmaus"
+  },
+  {
+    "id": "rembrandt-armor",
+    "type": "细节裁切",
+    "title": "夜巡铠甲高光",
+    "artist": "",
+    "year": "",
+    "museum_url": "",
+    "coords": "1459,687,1152,1499",
+    "parent": "rembrandt-night-watch"
+  },
+  {
+    "id": "monet-shadow-color",
+    "type": "细节裁切",
+    "title": "印象日出影色",
+    "artist": "",
+    "year": "",
+    "museum_url": "",
+    "coords": "384,1042,2112,1340",
+    "parent": "monet-sunrise"
+  },
+  {
+    "id": "botticelli-hatching",
+    "type": "细节裁切",
+    "title": "维纳斯蛋彩排线",
+    "artist": "",
+    "year": "",
+    "museum_url": "",
+    "coords": "1612,723,1152,1206",
+    "parent": "botticelli-venus"
+  },
+  {
+    "id": "meninas-mirror",
+    "type": "细节裁切",
+    "title": "宫娥镜面",
+    "artist": "",
+    "year": "",
+    "museum_url": "",
+    "coords": "1305,2120,620,900",
+    "parent": "velazquez-meninas"
+  }
+]
